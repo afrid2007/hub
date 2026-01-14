@@ -8,10 +8,10 @@ A sleek, high-performance personal start page contained entirely within a **sing
 - **Instant Search:** Find any tool immediately using the built-in search bar.
 - **Responsive Design:** Optimized for dark mode and organized using a clean grid layout.
 
-## 🚀 How to Use
+## 🚀 If want to download
 Because this project is built as a standalone file, getting started is instant:
 
-1. **Download** the `html` file.
+1. **Download** the `dashboard.html` file.
 2. **Double-click** the file to open it in your favorite web browser.
 3. (Optional) Set it as your browser's **New Tab** page for maximum productivity.
 
